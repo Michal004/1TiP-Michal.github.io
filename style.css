@@ -1,0 +1,182 @@
+body
+{
+	background-color: #0000cc;
+	color: #ffffff;
+	font-family: 'Lato', sans-serif;
+}
+
+#container
+{
+	margin-left: auto;
+	margin-right: auto;
+	min-width: 100px;
+	max-width: 1500px;
+}
+
+#logo
+{
+	font-size: 30px;
+	font-family: 'Josefin Slab', serif;
+	text-align: center;
+}
+
+.klik
+{
+	margin-bottom: 20px;
+	font-size: 35px;
+}
+
+.firma
+{
+	float: left;
+	width: 25%;
+	text-align: center;
+	background-color: #33cc00;
+	height: 50px;
+	color: black;
+	min-width: 300px;
+}
+
+.firma:hover
+{
+	background-color: #11aa00;
+}
+
+.oferty
+{
+	float: left;
+	width: 25%;
+	text-align: center;
+	background-color: #006600;
+	height: 50px;
+	color: black;
+	min-width: 300px;
+}
+
+.oferty:hover
+{
+	background-color: #005500;
+}
+
+.miejsce
+{
+	float: left;
+	width: 25%;
+	text-align: center;
+	background-color: #33cc00;
+	height: 50px;
+	color: black;
+	min-width: 300px;
+}
+
+.miejsce:hover
+{
+	background-color: #11aa00;
+}
+
+.kontakt
+{
+	float: left;
+	width: 25%;
+	text-align: center;
+	background-color: #006600;
+	height: 50px;
+	color: black;
+	min-width: 300px;
+}
+
+.kontakt:hover
+{
+	background-color: #005500;
+}
+
+.zdjecia
+{
+	text-align: center;
+}
+
+#aaa
+{
+	margin: 10px;
+	background-color: green;
+	width: 480px;
+	float: left;
+	height: 300px;
+}
+
+#bbb
+{
+	margin: 10px;
+	background-color: green;
+	width: 480px;
+	float: left;
+	height: 300px;
+}
+
+#ccc
+{
+	margin: 10px;
+	background-color: green;
+	width: 480px;
+	float: left;
+	height: 300px;
+}
+
+#ddd
+{
+	margin: 10px;
+	background-color: green;
+	width: 480px;
+	float: left;
+	height: 300px;
+}
+
+#eee
+{
+	margin: 10px;
+	background-color: green;
+	width: 480px;
+	float: left;
+	height: 300px;
+}
+
+#fff
+{
+	margin: 10px;
+	background-color: green;
+	width: 480px;
+	float: left;
+	height: 300px;
+}
+
+a.link
+{
+	color: #ffffff;
+	text-decoration: none;
+	display: block;
+	width: 100%;
+	height: 50px;
+}
+
+#info
+{
+	background-color: 666666;
+	max-width: 1480px;
+	min-width: 200px;
+	margin: 10px;
+	font-size: 25px;
+}
+
+.fb
+{
+	margin: 10px;
+	background-color: #4668b3;
+	text-align: center;
+	width: 230px;
+	height: 200px;
+}
+
+.fb:hover
+{
+	background-color: #3557a2;
+}
